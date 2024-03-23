@@ -1,5 +1,5 @@
 //
-//  CircleImage.swift
+//  CircleImageView.swift
 //  Landmarks
 //
 //  Created by Sasha Jaroshevskii on 16.03.2024.
@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-struct CircleImage: View {
+struct CircleImageView: View {
     var body: some View {
         Image(.turtlerock)
             .clipShape(Circle())
@@ -20,5 +20,5 @@ struct CircleImage: View {
 }
 
 #Preview {
-    CircleImage()
+    CircleImageView()
 }

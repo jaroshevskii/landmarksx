@@ -14,7 +14,7 @@ struct ContentView: View {
                 .frame(height: 300)
 
 
-            CircleImage()
+            CircleImageView()
                 .offset(y: -130)
                 .padding(.bottom, -130)
 
