@@ -1,12 +1,12 @@
 #  Landmarks X
 
-Landmarks X represents a refined iteration of the Landmarks application introduced in the [SwiftUI essentials tutorial](https://developer.apple.com/tutorials/swiftui#swiftui-essentials).
+Landmarks X represents a refined iteration of the Landmarks app introduced in the [SwiftUI essentials tutorial](https://developer.apple.com/tutorials/swiftui#swiftui-essentials).
 
 <p align="center">
-    <img align="center" src="https://github.com/jaroshevskii/landmarks/assets/72662383/8aad714a-7f79-4c48-9621-764e42643c84" alt="App" height="768px">
+    <img align="center" src="https://github.com/jaroshevskii/landmarksx/assets/72662383/7fe473fa-d1eb-4531-a53a-58237627a182" alt="App" width="310px">
 </p>
 
----
+## Views
 
 | ContentView | CircleImageView | MapView |
 | - | - | - |
